@@ -26,6 +26,69 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "ikunzy",
+      "name": "爱坤",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "taopian",
+      "name": "淘片",
+      "type": 0,
+      "api": "https://taopianapi.com/cjapi/sda/vod/xml.html",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "niuniuzy",
+      "name": "牛牛",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsua",
+      "name": "光速",
+      "type": 0,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jszya",
+      "name": "极速",
+      "type": 0,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dbzy",
+      "name": "豆瓣",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "索尼",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
